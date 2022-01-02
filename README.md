@@ -1,5 +1,6 @@
 # Data Structures Implementation in Python:
 Implementing the various data basic structures starting from hash tables, stacks and queues to binary tree...  
+Basic search algorithms in python
 
 # LeetCodeChallenges (4/2049)
 Solving some prgoramming problems in the leetcode website.
