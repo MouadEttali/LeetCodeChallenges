@@ -1,5 +1,5 @@
 # Data Structures Implementation in Python:
-Implementing the various data basic structures starting from hash tables, stacks and queues to binary tree..
+Implementing the various data basic structures starting from hash tables, stacks and queues to binary tree.
 Basic search and sort algorithms in python : binary search , quick sort , bubble sort , merge sort, insertion sort.
 
 # LeetCodeChallenges (4/2049)
