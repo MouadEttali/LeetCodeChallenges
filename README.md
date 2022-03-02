@@ -1,6 +1,6 @@
 # Data Structures Implementation in Python:
 Implementing the various data basic structures starting from hash tables, stacks and queues to binary tree and others.
-Basic search and sort algorithms in python : binary search , quick sort , bubble sort , merge sort, insertion sort...
+Basic search and sort algorithms in python : binary search , quick sort , bubble sort , merge sort, insertion sort.
 
 # LeetCodeChallenges (4/2049):
 Solving some prgoramming problems in the leetcode website.
