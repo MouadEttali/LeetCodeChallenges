@@ -2,7 +2,7 @@
 Implementing the various data basic structures starting from hash tables, stacks and queues to binary tree and others.
 Basic search and sort algorithms in python : binary search , quick sort , bubble sort , merge sort, insertion sort.
 # LeetCodeChallenges (4/2049):
-Solving some prgoramming problems in the leetcode website.
+Solving some prgoramming problems in the leetcode website.sss
 ## 1- Binary Tree Tilt:
 Given the root of a binary tree, return the sum of every tree node's tilt
 
@@ -18,7 +18,7 @@ Sum of every tilt : 0 + 0 + 1 = 1
 
 
 ## 2- Two Sum: s
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+Given an array of integers nums and an integer target, return indices of tsshe two numbers such that they add up to target.
 
 Input: nums = [2,7,11,15], target = 9.
 Output: [0,1]
