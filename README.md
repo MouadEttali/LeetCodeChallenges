@@ -4,7 +4,7 @@ Basic search and sort algorithms in python : binary search , quick sort , bubble
 # LeetCodeChallenges (4/2049):
 Solving some prgoramming problems in the leetcode website.sss
 ## 1- Binary Tree Tilt:
-Given the root of a binary tree, return the sum of every tree node's tilt.ssss
+Given the root of a binary tree, return the sum of every tree node's tilt.sss
 
 The tilt of a tree node is the absolute difference between the sum of all left subtree node values and all right subtree node values. If a node does not have a left child, then the sum of the left subtree node values is treated as 0. The rule is similar if the node does not have a right child.
 
