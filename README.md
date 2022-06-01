@@ -1,7 +1,7 @@
 # Data Structures Implementation in Python:
 Implementing the various data basic structures starting from hash tables, stacks and queues to binary tree and others.
 Basic search and sort algorithms in python : binary search , quick sort , bubble sort , merge sort, insertion sort.
-# LeetCodeChallenges (5/2049):
+# LeetCodeChallenges (6/2049):
 Solving some prgoramming problems in the leetcode website.ss
 ## 1- Binary Tree Tilt:
 Given the root of a binary tree, return the sum of every tree node's tilt.
@@ -50,3 +50,5 @@ Output: 2.50000
 Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 ## 5 - is palindrome
+
+## 6 - longestCommonPrefix
