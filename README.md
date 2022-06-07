@@ -53,3 +53,4 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 ## 6 - longestCommonPrefix
 ## 7 - ThreeSum
+## 8 - Merge Sorted Array
